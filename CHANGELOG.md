@@ -14,6 +14,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Generated files in docs/ folder
 - Script to generate letter avatars
 
-[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v1.0.0
+[Unreleased]: https://github.com/noticeableapp/letter-avatars/compare/1.0.0...HEAD
+[1.0.0]: https://github.com/noticeableapp/letter-avatars/releases/tag/1.0.0
 
