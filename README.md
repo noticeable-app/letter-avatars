@@ -10,7 +10,7 @@
 ![ZZ11](https://letters.noticeable.io/ZZ11.png) 
 
 Did you never wanted to serve letter avatars from a fast CDN to take advantage
-of low network latency, browser caching and be technology independent?
+of low network latency, efficient caching strategies and be technology independent?
 
 This repository contains pre-generated PNG and SVG images for all single and two letters avatars,
 including variants with 19 background colors. That's 25,688 avatars ready to be served from edge nodes and cached efficiently.
